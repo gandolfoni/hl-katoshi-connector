@@ -1,6 +1,3 @@
-I'll customize the entire README to better reflect Katoshi.ai and Hyperliquid's specific features and requirements:
-
-````markdown
 # HL-Katoshi-Connector
 
 A specialized connector integrating Katoshi.ai's automated trading layer with Hyperliquid Exchange's perpetual futures trading platform.
@@ -39,7 +36,6 @@ npm install @katoshi/hl-connector
 # or
 yarn add @katoshi/hl-connector
 ```
-````
 
 ## Configuration
 
@@ -159,8 +155,3 @@ Trading perpetual futures on decentralized exchanges carries significant risks i
 - Network congestion affecting order execution
 
 This tool is for experienced traders who understand these risks. Always start with small position sizes and test thoroughly before deploying significant capital.
-
-```
-
-Would you like me to make any specific adjustments to any section or add more details about particular features?
-```
